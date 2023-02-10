@@ -18,3 +18,4 @@ This app is used to create ,edit and save text while online or offline.
 licensed under MIT license License: MIT
 
 <h2>Credits</h2>
+Starter code taken from Xandromus
